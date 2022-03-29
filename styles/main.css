@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.flex-container {
+
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+
+header {
+	background-color: aquamarine;
+	height: 30px;
+	
+}
+
+
+nav {
+	
+float: center; 
+	
+}
+
+
+nav ul {
+
+margin: 0;
+padding: 0;
+list-style: none;
+	
+	
+}
+
+nav li {
+
+display: inline-block;
+margin-left: 70 px;
+padding-top: 25 px;
+	
+}
